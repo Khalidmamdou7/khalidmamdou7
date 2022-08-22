@@ -25,16 +25,11 @@ Here are some ideas to get you started:
 <h2 align="center">Some Stats</h2>
 <div align="center">
   
-<a href="https://github.com/Khalidmamdou7">
 
-[![Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalidmamdou7)](https://github.com/anuraghazra/github-readme-stats)
+[![Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalidmamdou7)](https://github.com/Khalidmamdou7)
 
-</a>
 
-<a href="https://leetcode.com/khalidmamdou7">
+[![Khalid's Leetcode Stats](https://leetcard.jacoblin.cool/khalidmamdou7?theme=unicorn)](https://leetcode.com/khalidmamdou7)
 
-![Khalid's Leetcode Stats](https://leetcard.jacoblin.cool/khalidmamdou7?theme=unicorn)
-
-</a>
    
 </div>
