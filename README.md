@@ -15,15 +15,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I love to hear anything new about the blockchain technologies and FinTech industry
+- 🎓 I'm a Junior Computer Engineering Student at Cairo University
+- 🔭 I am enthusiastic about the blockchain technologies and FinTech industry
 - 🌱 I’m currently learning more about Backend Development and Networking
-- 👯 I’m looking to collaborate on open source projects
+- 👯 I’m looking to start collaborating on open source projects
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/khalidmamdou7/) or [WhatsApp](https://wa.me/201141187015)
 
  
 <h2 align="center">Some Stats</h2>
 <div align="center">
+  
+<a href="https://github.com/Khalidmamdou7">
 
 [![Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalidmamdou7)](https://github.com/anuraghazra/github-readme-stats)
 
+</a>
+
+<a href="https://leetcode.com/khalidmamdou7">
+
+![Khalid's Leetcode Stats](https://leetcard.jacoblin.cool/khalidmamdou7?theme=unicorn)
+
+</a>
+   
 </div>
