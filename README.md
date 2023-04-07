@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - 🔭 I am enthusiastic about the blockchain technologies and FinTech industry
 - 🌱 I’m currently learning more about Backend Development and Networking
 - 👯 I’m looking to start collaborating on open source projects
-  - Currently collaborating on the [libssh library](https://gitlab.com/libssh/libssh-mirror).
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/khalidmamdou7/) or [WhatsApp](https://wa.me/201141187015)
 
  
