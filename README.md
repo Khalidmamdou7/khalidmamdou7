@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🎓 I'm a Junior Computer Engineering Student at Cairo University
-- 🔭 I am enthusiastic about the blockchain technologies and FinTech industry
-- 🌱 I’m currently learning more about Backend Development and Networking
+- 🌱 I’m currently learning more about Backend Development, security and computer networks
 - 👯 I’m looking to start collaborating on open source projects
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/khalidmamdou7/) or [WhatsApp](https://wa.me/201141187015)
 
